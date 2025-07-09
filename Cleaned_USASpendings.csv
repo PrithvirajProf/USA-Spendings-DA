@@ -1,0 +1,111 @@
+,agency_id,toptier_code,abbreviation,agency_name,active_fy,active_fq,outlay_amount,obligated_amount,budget_authority_amount,current_total_budget_authority_amount,percentage_of_total_budget_authority,agency_slug
+0,1525,247,AAHC,400 Years of African-American History Commission,2025,3,1953399.69,21970.4,2934499.28,14195466060777.52,2.0672088309295497e-07,400-years-of-african-american-history-commission
+1,1146,310,USAB,Access Board,2025,3,5918138.98,5765031.26,13588444.78,14195466060777.52,9.57238369055403e-07,access-board
+2,1136,302,ACUS,Administrative Conference of the U.S.,2025,3,2394066.94,2269892.09,3600360.33,14195466060777.52,2.536274832108471e-07,administrative-conference-of-the-us
+3,1144,306,ACHP,Advisory Council on Historic Preservation,2025,3,8149314.18,7729430.07,18639448.23,14195466060777.52,1.3130564470511702e-06,advisory-council-on-historic-preservation
+4,1527,166,USADF,African Development Foundation,2025,3,18581594.19,17077416.69,64798575.48,14195466060777.52,4.564737445221353e-06,african-development-foundation
+5,801,72,USAID,Agency for International Development,2025,3,15279193632.35,9835511189.59,34048415914.3,14195466060777.52,0.0023985416025456,agency-for-international-development
+6,805,74,ABMC,American Battle Monuments Commission,2025,3,58994765.51,65685380.52,270570946.5,14195466060777.52,1.906037782356405e-05,american-battle-monuments-commission
+7,1416,309,ARC,Appalachian Regional Commission,2025,3,12796485.93,2985575.0,48542910.32,14195466060777.52,3.419606662589646e-06,appalachian-regional-commission
+8,879,84,AFRH,Armed Forces Retirement Home,2025,3,106704176.13,103274303.97,285215930.11,14195466060777.52,2.0092044099774915e-05,armed-forces-retirement-home
+9,1159,313,GOLDWATER,Barry Goldwater Scholarship and Excellence In Education Foundation,2025,3,962079.32,596118.19,42265648.24,14195466060777.52,2.97740476142458e-06,barry-goldwater-scholarship-and-excellence-in-education-foundation
+10,1426,321,HERITAGEABROAD,Commission for the Preservation of America's Heritage Abroad,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,commission-for-the-preservation-of-americas-heritage-abroad
+11,1149,323,CFA,Commission of Fine Arts,2025,3,2401532.26,2387095.68,9690205.29,14195466060777.52,6.826267801642888e-07,commission-of-fine-arts
+12,1138,326,USCCR,Commission on Civil Rights,2025,3,9750603.88,9754543.99,16917640.83,14195466060777.52,1.1917636770478377e-06,commission-on-civil-rights
+13,1139,338,ABILITYONE,Committee for Purchase from People Who Are Blind or Severely Disabled,2025,3,7763979.57,8879000.31,17054457.67,14195466060777.52,1.2014017431327569e-06,committee-for-purchase-from-people-who-are-blind-or-severely-disabled
+14,1129,339,CFTC,Commodity Futures Trading Commission,2025,3,252234042.96,228183667.41,991042891.19,14195466060777.52,6.981404393113094e-05,commodity-futures-trading-commission
+15,1158,581,CFPB,Consumer Financial Protection Bureau,2025,3,2558817520.76,2395890335.09,3088809457.17,14195466060777.52,0.0002175912677995,consumer-financial-protection-bureau
+16,694,61,CPSC,Consumer Product Safety Commission,2025,3,107783219.83,95261154.17,165012096.71,14195466060777.52,1.1624281725130052e-05,consumer-product-safety-commission
+17,1166,485,CNCS,Corporation for National and Community Service,2025,3,1156888685.21,526826843.67,2712448832.46,14195466060777.52,0.0001910785331631,corporation-for-national-and-community-service
+18,1205,96,USACE,Corps of Engineers - Civil Works,2025,3,20416816690.4,24311965118.78,81074000044.17,14195466060777.52,0.0057112601796273,corps-of-engineers-civil-works
+19,1132,542,CIGIE,Council of the Inspectors General on Integrity and Efficiency,2025,3,21103144.63,21759990.57,71581978.71,14195466060777.52,5.042594473723062e-06,council-of-the-inspectors-general-on-integrity-and-efficiency
+20,1528,9553,CSOSA,Court Services and Offender Supervision Agency,2025,3,181648097.1,165488234.1,374811007.55,14195466060777.52,2.640357181266585e-05,court-services-and-offender-supervision-agency
+21,1137,347,DNFSB,Defense Nuclear Facilities Safety Board,2025,3,29159901.01,27521999.51,51586116.27,14195466060777.52,3.6339853900629528e-06,defense-nuclear-facilities-safety-board
+22,1156,517,DRA,Delta Regional Authority,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,delta-regional-authority
+23,1165,513,DENALI,Denali Commission,2025,3,28074408.51,47468714.96,231832039.16,14195466060777.52,1.6331414422564018e-05,denali-commission
+24,95,12,USDA,Department of Agriculture,2025,3,167121896747.9,176718948127.15,493469869414.54,14195466060777.52,0.0347624986246849,department-of-agriculture
+25,183,13,DOC,Department of Commerce,2025,3,21546977164.67,60787502228.59,92798254462.67,14195466060777.52,0.0065371756070111,department-of-commerce
+26,1173,97,DOD,Department of Defense,2025,3,997459982466.31,1020017034334.57,2262532390837.18,14195466060777.52,0.1593841569660486,department-of-defense
+27,1068,91,ED,Department of Education,2025,3,6049938.59,1840408.0,1840408.03,14195466060777.52,1.296475946700405e-07,department-of-education
+28,930,89,DOE,Department of Energy,2025,3,44958087184.75,76877676971.59,161468222900.27,14195466060777.52,0.0113746334364048,department-of-energy
+29,806,75,HHS,Department of Health and Human Services,2025,3,1826817218604.39,1934488983995.29,2994853951679.25,14195466060777.52,0.2109725696117944,department-of-health-and-human-services
+30,766,70,DHS,Department of Homeland Security,2025,3,104127627906.36,114269235021.7,215346710769.57,14195466060777.52,0.0151701050073008,department-of-homeland-security
+31,882,86,HUD,Department of Housing and Urban Development,2025,3,57471637707.92,57787574159.87,296352221225.89,14195466060777.52,0.0208765404360142,department-of-housing-and-urban-development
+32,252,15,DOJ,Department of Justice,2025,3,35122406320.8,32044580146.59,67731460005.1,14195466060777.52,0.0047713445768606,department-of-justice
+33,267,1601,DOL,Department of Labor,2025,3,121850472.89,112264496.3,159836197.15,14195466060777.52,1.1259665337204532e-05,department-of-labor
+34,315,19,DOS,Department of State,2025,3,6497963466.11,3187864537.94,17434980364.8,14195466060777.52,0.001228207674912,department-of-state
+35,731,69,DOT,Department of Transportation,2025,3,87112458541.59,88736922355.36,294278210572.05,14195466060777.52,0.0207304366980348,department-of-transportation
+36,561,36,VA,Department of Veterans Affairs,2025,3,278667995343.79,268498840698.24,462839724236.16,14195466060777.52,0.0326047571988495,department-of-veterans-affairs
+37,209,14,DOI,Department of the Interior,2025,3,25707795428.26,23787395932.71,91004109677.64,14195466060777.52,0.0064107870279149,department-of-the-interior
+38,456,20,TREAS,Department of the Treasury,2025,3,1344602990322.69,1349819158055.69,4253024278508.55,14195466060777.52,0.2996044131484895,department-of-the-treasury
+39,1523,349,DC COURTS,District of Columbia Courts,2025,3,221660404.01,217159890.24,430734433.58,14195466060777.52,3.034309910895646e-05,district-of-columbia-courts
+40,1141,525,EAC,Election Assistance Commission,2025,3,28885361.16,30285476.45,107872655.63,14195466060777.52,7.599092214947084e-06,election-assistance-commission
+41,700,68,EPA,Environmental Protection Agency,2025,3,31665721426.16,18276689728.07,58310027597.57,14195466060777.52,0.0041076515098494,environmental-protection-agency
+42,611,45,EEOC,Equal Employment Opportunity Commission,2025,3,305502654.37,297039443.94,490819630.41,14195466060777.52,3.457580246457344e-05,equal-employment-opportunity-commission
+43,48,1100,EOP,Executive Office of the President,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,executive-office-of-the-president
+44,878,83,EXIM,Export-Import Bank of the United States,2025,3,98396290.18,121065188.83,363937759.77,14195466060777.52,2.5637605571512053e-05,export-import-bank-of-the-united-states
+45,860,7802,FCSIC,Farm Credit System Insurance Corporation,2025,3,79704434.2,80622637.57,8387807961.35,14195466060777.52,0.0005908793642588,farm-credit-system-insurance-corporation
+46,538,27,FCC,Federal Communications Commission,2025,3,7564446859.45,8371578680.03,-9997343652.24,14195466060777.52,-0.0007042631506029,federal-communications-commission
+47,682,51,FDIC,Federal Deposit Insurance Corporation,2025,3,4014340172.54,4199760250.36,122704155001.62,14195466060777.52,0.0086438975991535,federal-deposit-insurance-corporation
+48,1128,360,FEC,Federal Election Commission,2025,3,53499012.17,51880442.34,89925389.84,14195466060777.52,6.334796579061708e-06,federal-election-commission
+49,1161,362,FFIEC,Federal Financial Institutions Examination Council,2025,3,3988977.72,5651585.08,31733815.59,14195466060777.52,2.2354895185640607e-06,federal-financial-institutions-examination-council
+50,685,54,FLRA,Federal Labor Relations Authority,2025,3,20565383.49,18948022.06,30559245.85,14195466060777.52,2.1527469206830818e-06,federal-labor-relations-authority
+51,699,65,FMC,Federal Maritime Commission,2025,3,26906741.3,22941650.95,44879772.81,14195466060777.52,3.161556839194178e-06,federal-maritime-commission
+52,1125,93,FMCS,Federal Mediation and Conciliation Service,2025,3,36428360.12,32425353.62,76137737.45,14195466060777.52,5.363525024399921e-06,federal-mediation-and-conciliation-service
+53,1127,368,FMSHRC,Federal Mine Safety and Health Review Commission,2025,3,10905221.73,12397638.22,25628192.59,14195466060777.52,1.805378737145618e-06,federal-mine-safety-and-health-review-commission
+54,1524,473,FPISC,Federal Permitting Improvement Steering Council,2025,3,19667449.31,72898057.54,228423777.55,14195466060777.52,1.609131933900652e-05,federal-permitting-improvement-steering-council
+55,552,29,FTC,Federal Trade Commission,2025,3,286195819.83,261939573.37,484063351.6,14195466060777.52,3.409985621659024e-05,federal-trade-commission
+56,614,47,GSA,General Services Administration,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,general-services-administration
+57,11,5,GAO,Government Accountability Office,2025,3,601109640.42,621675376.63,1059461703.51,14195466060777.52,7.463380906086086e-05,government-accountability-office
+58,1147,471,GCERC,Gulf Coast Ecosystem Restoration Council,2025,3,63145477.39,87071798.51,320912718.44,14195466060777.52,2.260670534282006e-05,gulf-coast-ecosystem-restoration-council
+59,1131,372,TRUMAN,Harry S Truman Scholarship Foundation,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,harry-s-truman-scholarship-foundation
+60,1423,474,IMLS,Institute of Museum and Library Services,2025,3,223965265.83,103696839.87,325010197.55,14195466060777.52,2.2895352372262896e-05,institute-of-museum-and-library-services
+61,1526,164,IAF,Inter-American Foundation,2025,3,26311858.32,17434500.42,66985698.24,14195466060777.52,4.718809368653518e-06,inter-american-foundation
+62,560,34,USITC,International Trade Commission,2025,3,85289819.1,79066025.19,132326046.52,14195466060777.52,9.321712013783097e-06,international-trade-commission
+63,1152,381,MADISON,James Madison Memorial Fellowship Foundation,2025,3,1369769.44,2017043.65,36939261.84,14195466060777.52,2.602187323885353e-06,james-madison-memorial-fellowship-foundation
+64,1133,382,JUSFC,Japan-United States Friendship Commission,2025,3,2063468.61,2220833.73,2550381.77,14195466060777.52,1.7966171445732085e-07,japan-united-states-friendship-commission
+65,558,3301,KENNEDY CENTER,John F. Kennedy Center for the Performing Arts,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,john-f-kennedy-center-for-the-performing-arts
+66,1134,387,MMC,Marine Mammal Commission,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,marine-mammal-commission
+67,610,389,MSPB,Merit Systems Protection Board,2025,3,35490300.87,33481792.87,58067801.04,14195466060777.52,4.090587853289509e-06,merit-systems-protection-board
+68,1154,524,MCC,Millennium Challenge Corporation,2025,3,490746676.28,202834014.28,3216435823.9,14195466060777.52,0.0002265819107402,millennium-challenge-corporation
+69,1155,487,UDALL,Morris K. Udall and Stewart L. Udall Foundation,2025,3,8237383.18,8922704.89,30422304.82,14195466060777.52,2.1431001060301718e-06,morris-k-udall-and-stewart-l-udall-foundation
+70,862,80,NASA,National Aeronautics and Space Administration,2025,3,17696617118.79,15298200582.94,35078763631.28,14195466060777.52,0.0024711244760186,national-aeronautics-and-space-administration
+71,925,88,NARA,National Archives and Records Administration,2025,3,503601382.81,459502640.04,900164703.0,14195466060777.52,6.341212744590197e-05,national-archives-and-records-administration
+72,1126,394,NCPC,National Capital Planning Commission,2025,3,7439056.2,9270599.41,17201964.01,14195466060777.52,1.2117928313413762e-06,national-capital-planning-commission
+73,1417,413,NCD,National Council on Disability,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,national-council-on-disability
+74,535,25,NCUA,National Credit Union Administration,2025,3,3175438.94,1506300.0,17668349.41,14195466060777.52,1.244647363767658e-06,national-credit-union-administration
+75,687,417,NEA,National Endowment for the Arts,2025,3,188464391.15,36788162.94,240977078.95,14195466060777.52,1.6975637003974572e-05,national-endowment-for-the-arts
+76,692,418,NEH,National Endowment for the Humanities,2025,3,148808008.84,84669036.94,261580052.37,14195466060777.52,1.842701403744349e-05,national-endowment-for-the-humanities
+77,697,420,NLRB,National Labor Relations Board,2025,3,203261789.71,196566507.81,314866941.72,14195466060777.52,2.2180810434254527e-05,national-labor-relations-board
+78,1142,421,NMB,National Mediation Board,2025,3,9896654.54,9765332.93,18648455.94,14195466060777.52,1.313690995431719e-06,national-mediation-board
+79,655,49,NSF,National Science Foundation,2025,3,6294832852.56,2592569682.79,10521442087.07,14195466060777.52,0.0007411832793669,national-science-foundation
+80,1130,424,NTSB,National Transportation Safety Board,2025,3,96207823.09,97897689.19,176854548.66,14195466060777.52,1.2458523580895608e-05,national-transportation-safety-board
+81,1431,573,NBRC,Northern Border Regional Commission,2025,3,20812426.36,50484850.34,273178873.45,14195466060777.52,1.924409330982102e-05,northern-border-regional-commission
+82,554,31,NRC,Nuclear Regulatory Commission,2025,3,661972082.42,591721135.87,1667169955.26,14195466060777.52,0.0001174438336946,nuclear-regulatory-commission
+83,654,431,NWTRB,Nuclear Waste Technical Review Board,2025,3,2525148.95,2749892.84,5299141.35,14195466060777.52,3.732981592370313e-07,nuclear-waste-technical-review-board
+84,1135,432,OSHRC,Occupational Safety and Health Review Commission,2025,3,9442528.64,8270963.79,18983627.56,14195466060777.52,1.3373021694900393e-06,occupational-safety-and-health-review-commission
+85,1157,434,OGE,Office of Government Ethics,2025,3,13379023.74,15593107.83,29324689.9,14195466060777.52,2.065778592576468e-06,office-of-government-ethics
+86,650,435,ONHIR,Office of Navajo and Hopi Indian Relocation,2025,3,3519966.3,4566189.71,6521811.66,14195466060777.52,4.594292031045006e-07,office-of-navajo-and-hopi-indian-relocation
+87,503,24,OPM,Office of Personnel Management,2025,3,139855229756.23,139284948253.14,402550661193.83,14195466060777.52,0.0283576924822559,office-of-personnel-management
+88,695,62,OSC,Office of Special Counsel,2025,3,20227241.37,21287698.16,32437333.86,14195466060777.52,2.2850488825883133e-06,office-of-special-counsel
+89,800,71,OPIC,Overseas Private Investment Corporation,2025,3,367459.29,0.0,20353144.16,14195466060777.52,1.4337778043255883e-06,overseas-private-investment-corporation
+90,1516,579,PCORTF,Patient-Centered Outcomes Research Trust Fund,2025,3,644592739.62,721222755.1,1160676779.46,14195466060777.52,8.176390789077249e-05,patient-centered-outcomes-research-trust-fund
+91,89,1125,PC,Peace Corps,2025,3,289042490.11,282387384.56,519710742.5,14195466060777.52,3.661103765631026e-05,peace-corps
+92,308,1602,PBGC,Pension Benefit Guaranty Corporation,2025,3,8644044918.71,9722150129.61,90435987517.91,14195466060777.52,0.0063707656466304,pension-benefit-guaranty-corporation
+93,1164,512,PRESIDIO,Presidio Trust,2025,3,153558343.88,142203068.91,521537990.99,14195466060777.52,3.673975822682036e-05,presidio-trust
+94,1143,535,PCLOB,Privacy and Civil Liberties Oversight Board,2025,3,8698107.29,9338128.48,18238748.59,14195466060777.52,1.2848291498082045e-06,privacy-and-civil-liberties-oversight-board
+95,1544,290,PBRB,Public Buildings Reform Board,2025,3,1723418.05,1429277.25,11404685.71,14195466060777.52,8.034034008584948e-07,public-buildings-reform-board
+96,693,60,RRB,Railroad Retirement Board,2025,3,11402082640.23,11600815364.3,17676127176.98,14195466060777.52,0.001245195268778,railroad-retirement-board
+97,680,50,SEC,Securities and Exchange Commission,2025,3,1640251426.53,1462442317.38,3454616072.75,14195466060777.52,0.0002433605249703,securities-and-exchange-commission
+98,1067,90,SSS,Selective Service System,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,selective-service-system
+99,803,73,SBA,Small Business Administration,2025,3,2568519329.58,2891599548.97,8354850989.8,14195466060777.52,0.0005885577094847,small-business-administration
+100,539,28,SSA,Social Security Administration,2025,3,1148069461939.86,1167275834545.29,1212743874885.43,14195466060777.52,0.0854317758707673,social-security-administration
+101,1546,574,SCRC,Southeast Crescent Regional Commission,2025,3,3767106.66,10323566.05,57986144.73,14195466060777.52,4.084835572268908e-06,southeast-crescent-regional-commission
+102,1422,472,STB,Surface Transportation Board,2025,3,30905941.52,26625589.81,54913991.33,14195466060777.52,3.868417640878233e-06,surface-transportation-board
+103,1163,514,USAGM,U.S. Agency for Global Media,2025,3,552377907.03,490511371.39,992110792.69,14195466060777.52,6.98892722818894e-05,us-agency-for-global-media
+104,651,376,USICH,U.S. Interagency Council on Homelessness,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,us-interagency-council-on-homelessness
+105,1522,77,DFC,U.S. International Development Finance Corporation,2025,3,385349931.8,208385839.19,8190721261.36,14195466060777.52,0.0005769955862168,us-international-development-finance-corporation
+106,1162,510,CSB,United States Chemical Safety Board,2025,3,8945224.37,8489626.54,21667402.43,14195466060777.52,1.5263607645731094e-06,united-states-chemical-safety-board
+107,1169,345,CAVC,United States Court of Appeals for Veterans Claims,2025,3,29769403.86,32437154.83,126402624.12,14195466060777.52,8.90443635868033e-06,united-states-court-of-appeals-for-veterans-claims
+108,90,1133,USTDA,United States Trade and Development Agency,2025,3,52504952.28,31347599.58,182276250.63,14195466060777.52,1.2840455526404626e-05,united-states-trade-and-development-agency
+109,1418,519,VEF,Vietnam Education Foundation,2025,3,0.0,0.0,0.0,14195466060777.52,0.0,vietnam-education-foundation
